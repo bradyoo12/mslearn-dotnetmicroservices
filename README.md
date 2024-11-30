@@ -1,6 +1,6 @@
 ## Sample for the Build your first microservice in .NET learn module
 
-The completed page shows the following following the tutorial video in the reference below.
+The completed page shows as below after following the tutorial video in the reference below.
 ![image](https://github.com/user-attachments/assets/2820ed85-6b27-4c84-845d-b2af42a14fa2)
 
 Backend swagger
