@@ -8,7 +8,8 @@
 - Developers can work on independent pieces of an application, which reduces time to market.
 
 # Reference
-- https://www.youtube.com/watch?v=DFDbh1c9zyE
+- What are microservices?!?!? Let’s build one with .NET and Docker! https://www.youtube.com/watch?v=DFDbh1c9zyE
+- Build your first microservice with .NET https://learn.microsoft.com/en-au/training/modules/dotnet-microservices/
 
 # Sample for the Build your first microservice in .NET learn module
 
