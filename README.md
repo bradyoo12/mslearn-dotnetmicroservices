@@ -24,8 +24,4 @@ Backend swagger
 1. You will need to add the **Dockerfile** to the web API in the backend folder.
 1. And add the **docker-compose.yml** file to the root folder.
 
-Along with the necessary Docker commands for building an image and running Docker compose as well.
-
-Check out the Learn module to find out all about [Building your first microservice in .NET](https://docs.microsoft.com/learn/modules/dotnet-microservices).
-
 
