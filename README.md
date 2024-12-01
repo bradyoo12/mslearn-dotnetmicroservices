@@ -6,6 +6,10 @@ The completed page shows as below after following the tutorial video in the refe
 Backend swagger
 ![image](https://github.com/user-attachments/assets/ae15f0d6-06d8-46f5-9a95-db2d82804d00)
 
+## What I learn
+
+1. Small, focused teams can concentrate on a particular service's development, deployment, and maintenance.
+2. Developers can work on independent pieces of an application, which reduces time to market. 
 
 ### Steps to run
 
